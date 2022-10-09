@@ -22,7 +22,7 @@ pd.set_option('display.width', 500)
 ################################################
 #  Exploratory Data Analysis
 ################################################
-df = pd.read_csv(r"C:\Users\KUBRA SAK\PycharmProjects\pythonProject\dsmlbc_9_gulbuke\Homeworks\Kubra_Sak\Project\media prediction and its cost.csv")
+df = pd.read_csv(r"media prediction and its cost.csv")
 
 
 
